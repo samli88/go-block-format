@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"testing"
 
-	cid "github.com/ipfs/go-cid"
-	u "github.com/ipfs/go-ipfs-util"
-	mh "github.com/multiformats/go-multihash"
+	cid "github.com/samli88/go-cid"
+	u "github.com/samli88/go-ipfs-util"
+	mh "github.com/samli88/go-multihash"
 )
 
 func TestBlocksBasic(t *testing.T) {
